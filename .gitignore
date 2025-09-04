@@ -102,6 +102,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Swift Package Manager build cache
+.swiftpm/**
+
 # backups
 *.bak
 *.backup
